@@ -1,4 +1,11 @@
 Hola-Mundo-en-Ruby
 ==================
 
-Repositorio para el Hola Mundo en Ruby
+* Autor: César Ravelo Martínez
+
+* Descripción: Repositorio de "Hola Mundo en Ruby"
+
+* Ramas:
+
+- Master
+- Program
